@@ -2,7 +2,7 @@
 - 👀 I’m interested in games, programming, art, music and more!
 - 🌱 I’m currently learning progamming.
 - 😄 Pronouns: Her/she.
-- ⚡ Fun fact: I'm 13y, and i'm so curious!
+- ⚡ Fun fact: I'm so curious!
 
 <!---
 Alane-prog/Alane-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
