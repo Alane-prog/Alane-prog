@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Alane-prog!
-- 👀 I’m interested in games, programming, art, music and more!
+- 👀 I’m interested in games, programming, art, music, books, and more!
 - 🌱 I’m currently learning progamming.
 - 😄 Pronouns: Her/she.
-- ⚡ Fun fact: I'm so curious!
+- ⚡ Fun fact: I love cats!
 
 <!---
 Alane-prog/Alane-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
